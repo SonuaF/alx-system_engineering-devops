@@ -1,2 +1,2 @@
 0 string SCHOOL School data
-file -C -m School
+file -m school.mgc *
