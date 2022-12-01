@@ -1,1 +1,1 @@
-a scripts that sets the mode of the file hello the same as olleh mode
+a scripts that executes permission to all subdirectories of the current directory
