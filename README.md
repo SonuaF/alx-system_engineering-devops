@@ -1,4 +1,4 @@
 # alx-system_engineering-devops
-This repo is contains SHELL tasks which include:
+This repo contains SHELL tasks which include:
 0x00-shell_basics
 0x01-shell_permissions
