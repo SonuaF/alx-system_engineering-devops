@@ -1,4 +1,4 @@
-#Shell, init files, variables and expansions
+# Shell, init files, variables and expansions
 
 0-alias	Create an alias named ls whose value is rm *
 
